@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+#use_frameworks!
+
+target 'CTCamera_Example', :exclusive => true do
+  pod "CTCamera", :path => "../"
+end
+
+target 'CTCamera_Tests', :exclusive => true do
+  pod "CTCamera", :path => "../"
+
+  
+end

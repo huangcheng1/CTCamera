@@ -1,0 +1,20 @@
+/* 
+  localization.strings
+  Pods
+
+  Created by 黄成 on 15/12/21.
+
+*/
+
+"close" = "取消";
+"sure" = "确定";
+"finish" = "完成";
+"errortitle" = "出错啦!";
+"cancel" = "取消";
+"nopolicy" = "请在 设置->隐私->相机 确定您相机的权限已开启";
+"acquiringdevicelock" = "其他程序正在使用相机，请先关闭";
+"running" = "正在运行";
+"save_image_error" = "存入相册失败";
+"mosaic_image" = "涂抹";
+"next_step" = "下一步";
+"last_step" = "上一步";
