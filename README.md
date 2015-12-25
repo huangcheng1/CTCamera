@@ -20,6 +20,10 @@ it, simply add the following line to your Podfile:
 pod "CTCamera"
 ```
 
+## Attention
+
+CTCamera only support iOS7 and greater version,if you want support other version,please contact me,or modify this project and pull request to me.
+
 ## Author
 
 root, 632300630@qq.com
