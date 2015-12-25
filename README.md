@@ -33,3 +33,10 @@ root, 632300630@qq.com
 ## License
 
 CTCamera is available under the MIT license. See the LICENSE file for more info.
+
+## screen shot
+
+![image](http://7xpas5.com1.z0.glb.clouddn.com/IMG_1120.PNG?imageView/1/w/187/h/333)
+![image](http://7xpas5.com1.z0.glb.clouddn.com/IMG_1125.PNG?imageView/1/w/187/h/333)
+![image](http://7xpas5.com1.z0.glb.clouddn.com/IMG_1126.PNG?imageView/1/w/187/h/333)
+![image](http://7xpas5.com1.z0.glb.clouddn.com/IMG_1127.PNG?imageView/1/w/187/h/333)
