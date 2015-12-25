@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D9646986AA297E30A34259EB'
+               BlueprintIdentifier = 'DAE633DE66E17E0A7501084E'
                BlueprintName = 'CTCamera'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libCTCamera.a'>
