@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/CTEditPhotoViewController.h
+../../../../../Pod/Classes/controller/CTEditPhotoViewController.h

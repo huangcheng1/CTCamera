@@ -1,5 +1,5 @@
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/CTCamera" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/CTCamera" "${PODS_ROOT}/Headers/Public/GPUImage"
-OTHER_LDFLAGS = -framework "AVFoundation" -framework "MapKit" -framework "UIKit"
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/CTCamera" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/CTCamera"
+OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreGraphics" -framework "CoreImage" -framework "CoreMotion" -framework "Foundation" -framework "MapKit" -framework "UIKit"
 PODS_ROOT = ${SRCROOT}
 SKIP_INSTALL = YES

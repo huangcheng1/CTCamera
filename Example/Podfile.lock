@@ -1,7 +1,22 @@
 PODS:
-  - CTCamera (0.1.0):
-    - GPUImage (= 0.1.7)
-  - GPUImage (0.1.7)
+  - CTCamera (0.1.1):
+    - CTCamera/categories (= 0.1.1)
+    - CTCamera/configuration (= 0.1.1)
+    - CTCamera/controller (= 0.1.1)
+    - CTCamera/delegate (= 0.1.1)
+    - CTCamera/managers (= 0.1.1)
+    - CTCamera/views (= 0.1.1)
+  - CTCamera/categories (0.1.1)
+  - CTCamera/configuration (0.1.1)
+  - CTCamera/controller (0.1.1):
+    - CTCamera/views
+  - CTCamera/delegate (0.1.1)
+  - CTCamera/managers (0.1.1)
+  - CTCamera/views (0.1.1):
+    - CTCamera/categories
+    - CTCamera/configuration
+    - CTCamera/delegate
+    - CTCamera/managers
 
 DEPENDENCIES:
   - CTCamera (from `../`)
@@ -11,7 +26,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  CTCamera: 778f3316a38ad417fd36ec0b58c54f371319c77c
-  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  CTCamera: 45506db4e0225082d592c948bc6e6013fdc67782
 
 COCOAPODS: 0.39.0

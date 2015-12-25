@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/CTCameraViewController.h
+../../../../../Pod/Classes/controller/CTCameraViewController.h

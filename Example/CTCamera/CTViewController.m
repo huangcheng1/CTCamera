@@ -10,7 +10,6 @@
 #import "CTCameraViewController.h"
 #import "CTEditPhotoViewController.h"
 #import "UIViewController+FullScreen.h"
-#import "CTNavViewController.h"
 #import "CTCamera.h"
 
 @interface CTViewController ()
