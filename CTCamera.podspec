@@ -54,7 +54,7 @@ Pod::Spec.new do |s|
    
    s.subspec 'delegate' do |ss|
        ss.public_header_files = 'Pod/Classes/delegate/**/*.h'
-       ss.source_files = 'Pod/Classes/configuration/**/*'
+       ss.source_files = 'Pod/Classes/delegate/**/*'
        end
    s.subspec 'managers' do |ss|
        ss.public_header_files = 'Pod/Classes/managers/**/*.h'
