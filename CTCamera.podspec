@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "CTCamera"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "自定义相机 custom camera mosaic"
 
 # This description is used to generate tags and improve search results.

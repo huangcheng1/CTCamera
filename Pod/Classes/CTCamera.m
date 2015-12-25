@@ -78,6 +78,8 @@
 - (void)camera:(id)controller didFinishWithImage:(UIImage *)image withMetadata:(NSDictionary *)metadata{
     
     if (self.showEdit) {
+        self.editVC = [[CTEditPhotoViewController alloc]init];
+        self.editVC.delegate = self;
         self.editVC.image = image;
         self.editVC.capturedImageMetadata = metadata;
         [self.navCtr pushViewController:self.editVC animated:YES];
